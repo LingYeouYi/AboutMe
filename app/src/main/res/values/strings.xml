@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="my_name">See Kwee Teck</string>
+    <string name="my_pic">My Profile Pic</string>
+    <string name="my_profile_description">
+        DOB: 1/1/2020
+        \nAddress: 123, Jalan Genting Klang, Setapak, Kuala Lumpur
+        \nHobbies: Badminton, Play Games, Reading etc
+        \n\n
+    </string>
+</resources>
