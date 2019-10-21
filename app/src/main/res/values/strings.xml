@@ -4,8 +4,10 @@
     <string name="my_pic">My Profile Pic</string>
     <string name="my_profile_description">
         DOB: 1/1/2020
-        \nAddress: 123, Jalan Genting Klang, Setapak, Kuala Lumpur
-        \nHobbies: Badminton, Play Games, Reading etc
+        \n\nAddress: 123, Jalan Genting Klang, Setapak, Kuala Lumpur
+        \n\nHobbies: Badminton, Play Games, Reading etc
         \n\n
     </string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
 </resources>
